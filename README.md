@@ -17,4 +17,4 @@ Apresenta as funcionalidades implementadas para indicar o objetivo final do prod
 
 ## Link para visualização 
 
-https://uninterested-apple.surge.sh/
+http://adorable-hair.surge.sh/
